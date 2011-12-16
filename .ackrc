@@ -1,0 +1,14 @@
+--color-match=green
+--type-set=haml=.haml
+--type-set=erb=.erb
+--type-set=sass=.sass
+--ignore-dir=coverage
+--ignore-dir=doc
+--ignore-dir=log
+--ignore-dir=system
+--ignore-dir=tmp
+--ignore-dir=vendor
+--ignore-dir=uploads
+--ignore-dir=images
+--ignore-dir=build
+--ignore-dir=generated
