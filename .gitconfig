@@ -1,8 +1,8 @@
 [user]
-	name = clepore
-	email = chris@paperlesspost.com
+	name = Christopher Lepore
+	email = christopher.r.lepore@gmail.com
 [core]
-	editor = vim
+	editor = mate -w
 [color]
     ui = auto
   [color "branch"]
