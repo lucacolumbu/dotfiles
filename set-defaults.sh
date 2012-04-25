@@ -18,3 +18,12 @@ defaults write com.apple.Finder FXPreferredViewStyle Nlsv
 
 # Show the ~/Library folder
 chflags nohidden ~/Library
+
+# Show all filename extensions in Finder
+defaults write NSGlobalDomain AppleShowAllExtensions -bool true
+
+# Make Dock icons of hidden applications translucent
+defaults write com.apple.dock showhidden -bool true
+
+# Add a context menu item for showing the Web Inspector in web views
+defaults write NSGlobalDomain WebKitDeveloperExtras -bool true
