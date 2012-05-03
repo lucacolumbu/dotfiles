@@ -1,2 +1,5 @@
+# Git branch completion
+source ~/.git-completion.bash
+
 . ~/documents/dotfiles/.bash_color_codes
 . ~/documents/dotfiles/.git_svn_bash_prompt
