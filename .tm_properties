@@ -1,2 +1,4 @@
 softTabs         = true
 tabSize          = 2
+showInvisibles   = true
+softWrap         = false
