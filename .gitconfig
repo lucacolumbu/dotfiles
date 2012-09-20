@@ -1,8 +1,8 @@
 [user]
-	name = Christopher Lepore
-	email = christopher.r.lepore@gmail.com
+  name = Christopher Lepore
+  email = christopher.r.lepore@gmail.com
 [core]
-	editor = mate -w
+	editor = subl -n -w
 [color]
     ui = auto
   [color "branch"]
@@ -23,3 +23,5 @@
    br = branch
    co = checkout
    df = diff
+   
+   lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
