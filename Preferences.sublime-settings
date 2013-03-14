@@ -36,7 +36,7 @@
 	"color_scheme": "Packages/Color Scheme - Default/Clouds.tmTheme",
 	"create_window_at_startup": false,
 	"default_encoding": "UTF-8",
-	"default_line_ending": "system",
+	"default_line_ending": "Unix",
 	"detect_indentation": true,
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"drag_text": false,
@@ -84,6 +84,7 @@
 	[
 	],
 	"font_size": 12.0,
+	"git_gutter_live_mode": false,
 	"gutter": true,
 	"highlight_line": false,
 	"highlight_modified_tabs": false,

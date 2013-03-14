@@ -25,4 +25,7 @@ if [ $? -eq 0 ]; then
   }
 fi
 
+# Alias hub tool as git
+eval "$(hub alias -s)"
+
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
